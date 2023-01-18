@@ -32,6 +32,11 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+carl.holmstrom@appliedtechnology.se
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+carl.holmstrom.business@gmail.com
+
 
 
 
