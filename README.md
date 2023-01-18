@@ -38,7 +38,7 @@
 
 - 💻 &nbsp; .NET | JavaScript | React   
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQLServer | MySQL | SQLite | Firebase | Postman
+- 🛢 &nbsp; SQLServer | SQLite | Firebase | Postman
 - 🔧 &nbsp; Visual Studio Code | Visual Studio Community Edition | Rider | Git | Azure
 - 🖥 &nbsp; Photoshop | Figma
 
